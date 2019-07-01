@@ -1,1 +1,1 @@
-This is a generated line of code (loc). Work type: churn1 User: user_4 Date: 2019-06-03 11:00:00 +0000
+This is a generated line of code (loc). Work type: refactor1 User: user_4 Date: 2019-06-03 11:00:00 +0000
